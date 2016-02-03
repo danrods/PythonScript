@@ -1,4 +1,6 @@
 Stony Brook Python Script!
+Author : Danny Rodrigues
+
 
 This is a scripting language written in python that uses the TPG parser to create an abstract syntax tree for semantic evaluation. 
 
